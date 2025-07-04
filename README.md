@@ -1,4 +1,3 @@
-
 CODTECH IT SOLUTIONS INTERNSHIP 5TH JUNE 2025 → 5TH JULY 2025
 
 TASK 4 – Create a predictive model using scikit learn to classify or predict outcomes from a dataset(eg. Spam mail detection).
